@@ -1,0 +1,527 @@
+wage,educ,exper,gender,race,married
+3.0999999046325684,11,2,female,white,no married
+3.240000009536743,12,22,female,white,married
+3.0,11,2,male,white,no married
+6.0,8,44,male,white,married
+5.300000190734863,12,7,male,white,married
+8.75,16,9,male,white,married
+11.25,18,15,male,white,no married
+5.0,12,5,female,white,no married
+3.5999999046325684,12,26,female,white,no married
+18.18000030517578,17,22,male,white,married
+6.25,16,8,female,white,no married
+8.130000114440918,13,3,female,white,no married
+8.770000457763672,12,15,male,white,married
+5.5,12,18,male,white,no married
+22.200000762939453,12,31,male,white,married
+17.329999923706055,16,14,male,white,married
+7.5,12,10,female,white,married
+10.630000114440918,13,16,female,white,no married
+3.5999999046325684,12,13,female,white,married
+4.5,12,36,female,white,married
+6.880000114440918,12,11,female,white,no married
+8.479999542236328,12,29,male,white,married
+6.329999923706055,16,9,female,white,no married
+0.5299999713897705,12,3,female,white,no married
+6.0,11,37,female,nonwhite,no married
+9.5600004196167,16,3,male,nonwhite,married
+7.78000020980835,16,11,male,white,married
+12.5,16,31,male,white,married
+12.5,15,30,male,white,married
+3.25,8,9,female,white,married
+13.0,14,23,male,white,married
+4.5,14,2,female,white,no married
+9.68000030517578,13,16,female,white,no married
+5.0,12,7,female,white,no married
+4.679999828338623,12,3,female,white,no married
+4.269999980926514,16,22,female,nonwhite,married
+6.150000095367432,12,15,female,nonwhite,married
+3.509999990463257,4,39,male,white,married
+3.0,14,3,female,white,married
+6.25,12,11,female,white,no married
+7.809999942779541,12,3,female,white,married
+10.0,12,20,female,nonwhite,married
+4.5,14,16,female,white,married
+4.0,11,45,female,white,married
+6.380000114440918,13,11,female,white,no married
+13.699999809265137,15,20,male,white,married
+1.6699999570846558,10,1,male,white,no married
+2.930000066757202,12,36,female,white,married
+3.650000095367432,14,9,male,white,no married
+2.900000095367432,12,15,female,white,married
+1.6299999952316284,12,18,female,white,no married
+8.600000381469727,16,3,female,white,no married
+5.0,12,15,male,white,married
+6.0,12,7,male,white,married
+2.5,12,2,male,white,no married
+3.25,15,3,male,white,no married
+3.400000095367432,16,1,female,white,no married
+10.0,8,13,male,nonwhite,no married
+21.6299991607666,18,8,female,white,no married
+4.380000114440918,16,7,male,white,no married
+11.710000038146973,13,40,female,white,no married
+12.390000343322754,14,42,male,white,no married
+6.25,10,36,male,white,no married
+3.7100000381469727,10,13,female,nonwhite,no married
+7.78000020980835,14,9,male,white,no married
+19.979999542236328,14,26,male,white,married
+6.25,16,7,female,nonwhite,married
+10.0,12,25,male,white,married
+5.710000038146973,16,10,male,white,married
+2.0,12,3,female,white,no married
+5.710000038146973,16,3,female,white,no married
+13.079999923706056,17,17,male,nonwhite,married
+4.909999847412109,12,17,male,white,married
+2.9100000858306885,12,20,female,white,married
+3.75,12,7,female,white,married
+11.899999618530272,13,24,male,white,married
+4.0,12,28,female,white,married
+3.0999999046325684,12,2,female,white,no married
+8.449999809265137,12,19,male,white,married
+7.139999866485596,18,13,male,white,married
+4.5,9,22,male,white,married
+4.650000095367432,16,3,male,white,no married
+2.900000095367432,10,4,female,white,no married
+6.670000076293945,12,7,male,white,no married
+3.5,12,6,female,nonwhite,no married
+3.259999990463257,12,13,female,white,married
+3.25,12,14,female,white,married
+8.0,12,14,female,white,no married
+9.850000381469728,8,40,male,nonwhite,married
+7.5,12,11,male,white,married
+5.909999847412109,12,14,male,white,married
+11.760000228881836,14,40,male,white,married
+3.0,12,1,female,white,no married
+4.809999942779541,12,2,female,white,no married
+6.5,12,4,female,white,no married
+4.0,9,19,female,white,married
+3.5,13,1,male,white,no married
+13.15999984741211,12,34,male,white,married
+4.25,14,5,male,white,married
+3.5,12,3,male,white,no married
+5.130000114440918,15,6,female,white,no married
+3.75,12,14,female,white,married
+4.5,12,35,female,white,married
+7.630000114440918,12,8,female,white,no married
+15.0,14,7,male,nonwhite,married
+6.849999904632568,15,11,female,white,married
+13.329999923706056,12,14,male,white,married
+6.670000076293945,12,35,male,white,no married
+2.5299999713897705,12,46,female,white,no married
+9.800000190734863,17,7,male,white,married
+3.369999885559082,11,45,male,white,married
+24.979999542236328,18,29,male,white,married
+5.400000095367432,12,6,male,white,married
+6.110000133514404,14,15,male,white,married
+4.199999809265137,14,33,female,white,married
+3.75,10,15,male,white,no married
+3.5,14,5,female,white,married
+3.640000104904175,12,7,male,white,no married
+3.799999952316284,15,6,male,white,married
+3.0,8,33,female,white,married
+5.0,16,2,female,white,married
+4.630000114440918,14,4,female,white,married
+3.0,15,1,male,white,no married
+3.200000047683716,12,29,female,white,no married
+3.910000085830689,18,17,male,white,married
+6.429999828338623,16,17,female,white,married
+5.480000019073486,10,36,female,white,married
+1.5,8,31,male,white,no married
+2.900000095367432,10,23,female,white,no married
+5.0,11,13,male,white,married
+8.920000076293945,18,3,male,white,married
+5.0,15,15,male,white,no married
+3.5199999809265137,12,48,male,white,married
+2.900000095367432,11,6,female,white,no married
+4.5,12,12,male,white,married
+2.25,12,5,female,white,no married
+5.0,14,19,male,white,married
+10.0,16,9,male,nonwhite,married
+3.75,2,39,male,white,married
+10.0,14,28,female,white,married
+10.949999809265137,16,23,male,white,married
+7.900000095367432,12,2,male,white,no married
+4.71999979019165,12,15,female,white,no married
+5.840000152587891,13,5,female,white,married
+3.829999923706055,12,18,female,white,no married
+3.200000047683716,15,2,female,white,no married
+2.0,10,3,female,nonwhite,no married
+4.5,12,31,female,white,married
+11.550000190734863,16,20,female,white,married
+2.140000104904175,13,34,female,nonwhite,married
+2.380000114440918,9,5,male,nonwhite,no married
+3.75,12,11,male,white,no married
+5.519999980926514,13,31,male,white,no married
+6.5,12,8,female,white,married
+3.0999999046325684,12,2,female,white,no married
+10.0,14,18,male,white,married
+6.630000114440918,16,3,male,white,married
+10.0,16,3,male,white,married
+2.309999942779541,9,4,female,white,no married
+6.880000114440918,18,4,male,white,no married
+2.8299999237060547,10,1,male,white,no married
+3.130000114440918,10,1,female,white,no married
+8.0,13,28,male,white,married
+4.5,12,47,female,white,married
+8.649999618530273,18,13,female,white,no married
+2.0,13,2,female,white,no married
+4.75,12,48,female,white,married
+6.25,13,6,female,white,married
+6.0,13,8,male,white,married
+15.380000114440918,13,25,male,white,married
+14.579999923706056,18,13,female,white,no married
+12.5,12,8,male,white,no married
+5.25,12,19,female,white,married
+2.1700000762939453,13,1,female,white,no married
+7.139999866485596,12,43,female,white,no married
+6.21999979019165,12,19,female,white,married
+9.0,12,11,female,white,married
+10.0,14,43,male,white,married
+5.769999980926514,10,44,male,white,married
+4.0,12,22,female,white,married
+8.75,16,3,male,white,married
+6.53000020980835,16,3,female,white,no married
+7.599999904632568,12,41,female,white,no married
+5.0,14,5,male,white,no married
+5.0,12,14,female,white,no married
+21.86000061035156,12,24,male,white,married
+8.640000343322754,12,28,male,white,married
+3.299999952316284,12,25,male,white,married
+4.440000057220459,12,3,male,white,no married
+4.550000190734863,12,11,male,white,married
+3.5,12,7,female,nonwhite,married
+6.25,16,9,male,white,married
+3.849999904632568,16,5,male,white,married
+6.179999828338623,14,9,female,white,married
+2.9100000858306885,11,1,female,white,no married
+6.25,16,2,female,nonwhite,no married
+6.25,12,13,female,white,married
+9.050000190734863,12,10,male,white,married
+10.0,17,5,male,white,married
+11.109999656677246,12,30,male,white,married
+6.880000114440918,12,31,male,white,married
+8.75,16,1,male,nonwhite,no married
+10.0,8,9,male,white,married
+3.049999952316284,12,10,female,white,married
+3.0,12,38,female,white,married
+5.800000190734863,12,19,female,white,married
+4.099999904632568,16,5,female,white,married
+8.0,12,26,male,white,married
+6.150000095367432,12,35,female,white,no married
+2.700000047683716,9,2,female,white,no married
+2.75,13,1,female,white,no married
+3.0,16,19,female,white,married
+3.0,14,3,female,white,no married
+7.360000133514404,8,36,male,white,married
+7.5,14,29,male,white,married
+3.5,13,1,male,white,no married
+8.100000381469727,12,38,female,white,married
+3.75,18,1,male,white,no married
+3.25,9,29,male,nonwhite,married
+5.829999923706055,8,36,female,white,married
+3.5,8,4,male,white,no married
+3.3299999237060547,12,45,female,white,married
+4.0,14,22,female,white,no married
+3.5,12,20,female,white,married
+6.25,16,5,male,white,married
+2.950000047683716,8,15,female,nonwhite,married
+5.710000038146973,13,10,female,white,married
+3.0,9,3,female,white,no married
+22.86000061035156,16,16,male,white,married
+9.0,12,38,male,white,married
+8.329999923706055,15,33,male,white,married
+3.0,11,2,male,white,no married
+5.75,14,6,male,white,married
+6.760000228881836,12,19,male,nonwhite,married
+10.0,12,29,male,white,married
+3.0,12,2,male,white,no married
+3.5,18,3,female,white,no married
+3.25,12,4,male,white,no married
+4.0,12,10,female,nonwhite,no married
+2.9200000762939453,12,4,female,white,no married
+3.059999942779541,12,14,female,nonwhite,no married
+3.200000047683716,12,15,female,white,married
+4.75,12,19,male,white,married
+3.0,14,17,female,white,married
+18.15999984741211,16,29,male,white,married
+3.5,12,2,female,white,no married
+4.110000133514404,14,5,male,white,no married
+1.9600000381469729,11,38,female,nonwhite,no married
+4.289999961853027,12,3,female,white,no married
+3.0,10,47,male,white,no married
+6.449999809265137,12,7,male,white,married
+5.199999809265137,6,47,male,nonwhite,married
+4.5,13,23,female,nonwhite,no married
+3.880000114440918,12,12,male,white,married
+3.450000047683716,10,11,female,white,no married
+10.90999984741211,12,25,male,white,no married
+4.099999904632568,14,6,female,white,married
+3.0,13,3,male,white,no married
+5.900000095367432,12,14,male,nonwhite,married
+18.0,18,13,female,white,no married
+4.0,12,9,male,white,no married
+3.0,12,1,male,nonwhite,no married
+3.549999952316284,12,6,female,white,married
+3.0,12,11,female,white,married
+8.75,12,47,male,white,married
+2.900000095367432,8,49,female,white,no married
+6.260000228881836,13,37,female,white,married
+3.5,13,2,female,white,no married
+4.599999904632568,14,7,female,white,married
+6.0,12,22,male,white,no married
+2.890000104904175,10,8,female,white,no married
+5.579999923706055,16,1,male,white,married
+4.0,12,43,female,white,married
+6.0,16,2,male,white,no married
+4.5,12,2,female,white,no married
+2.9200000762939453,14,1,male,white,no married
+4.329999923706055,18,1,male,white,no married
+18.88999938964844,17,26,male,white,married
+4.28000020980835,13,1,female,white,no married
+4.570000171661377,14,37,female,white,married
+6.25,15,12,female,white,married
+2.950000047683716,14,41,male,nonwhite,married
+8.75,12,24,male,white,no married
+8.5,8,38,male,white,no married
+3.75,12,18,female,white,married
+3.150000095367432,12,26,male,white,married
+5.0,8,45,male,white,no married
+6.460000038146973,12,27,male,white,married
+2.0,9,2,male,white,no married
+4.789999961853027,12,41,male,white,married
+5.78000020980835,16,11,male,white,married
+3.180000066757202,12,5,female,white,married
+4.679999828338623,16,3,female,white,no married
+4.099999904632568,12,3,female,white,no married
+2.9100000858306885,12,4,male,white,married
+6.0,13,21,male,white,married
+3.5999999046325684,10,34,female,white,married
+3.950000047683716,6,49,male,white,married
+7.0,12,6,male,nonwhite,married
+3.0,12,26,female,white,married
+6.079999923706055,16,9,male,white,no married
+8.630000114440918,12,23,male,white,married
+3.0,8,33,male,white,married
+3.75,12,5,female,white,married
+2.900000095367432,6,49,male,white,married
+3.0,4,48,male,nonwhite,married
+6.25,11,35,male,white,married
+3.5,11,23,female,nonwhite,no married
+3.0,7,26,female,white,no married
+3.240000009536743,12,16,female,white,married
+8.020000457763672,18,23,female,white,married
+3.3299999237060547,12,36,female,white,married
+5.25,16,4,male,white,no married
+6.25,12,10,male,white,married
+3.5,14,18,male,white,married
+2.950000047683716,12,3,male,white,no married
+3.0,10,7,female,white,married
+4.690000057220459,10,7,male,white,no married
+3.7300000190734863,9,33,female,white,no married
+4.0,10,34,male,white,married
+4.0,12,8,female,white,married
+2.900000095367432,12,17,female,white,married
+3.049999952316284,12,2,female,white,no married
+5.050000190734863,10,5,female,white,no married
+13.949999809265137,16,41,male,white,married
+18.15999984741211,16,35,male,white,married
+6.25,16,11,male,white,no married
+5.25,12,4,male,nonwhite,no married
+4.789999961853027,12,12,female,white,married
+3.3499999046325684,7,35,female,white,no married
+3.0,8,33,male,white,married
+8.430000305175781,16,8,male,white,married
+5.699999809265137,16,2,male,white,no married
+11.979999542236328,18,8,male,white,married
+3.5,13,29,female,white,married
+4.239999771118164,10,14,male,nonwhite,married
+7.0,16,26,female,white,married
+6.0,14,11,female,white,married
+12.220000267028809,16,10,male,white,no married
+4.5,12,13,male,white,married
+3.0,9,23,female,white,married
+2.900000095367432,11,1,male,nonwhite,no married
+15.0,11,35,male,white,married
+4.0,12,5,male,white,married
+5.25,11,13,male,white,married
+4.0,12,22,male,white,married
+3.299999952316284,12,21,female,white,married
+5.050000190734863,12,19,female,white,married
+3.5799999237060547,12,13,male,white,no married
+5.0,14,15,male,white,married
+4.570000171661377,14,3,male,white,married
+12.5,18,6,male,white,no married
+3.450000047683716,12,6,female,white,married
+4.630000114440918,12,16,female,white,no married
+10.0,12,31,male,white,married
+2.9200000762939453,11,1,female,white,no married
+4.510000228881836,12,5,male,white,no married
+6.5,17,3,male,white,married
+7.5,16,11,male,white,married
+3.539999961853028,13,6,female,white,married
+4.199999809265137,13,11,female,white,married
+3.509999990463257,12,7,female,white,married
+4.5,14,5,male,white,married
+3.3499999046325684,14,5,female,white,married
+2.9100000858306885,11,2,male,white,no married
+5.25,10,44,male,white,married
+4.050000190734863,8,44,male,white,married
+3.75,14,13,female,white,married
+3.400000095367432,12,26,female,white,married
+3.0,10,2,female,white,no married
+6.289999961853027,17,10,male,white,married
+2.539999961853028,9,2,female,white,no married
+4.5,12,35,female,white,married
+3.130000114440918,12,6,female,white,married
+6.360000133514404,14,8,male,white,married
+4.679999828338623,16,1,male,white,no married
+6.800000190734863,12,14,male,white,married
+8.529999732971191,10,14,male,white,married
+4.170000076293945,0,22,female,white,no married
+3.75,14,8,female,white,married
+11.100000381469728,15,1,female,white,no married
+3.259999990463257,16,15,female,nonwhite,married
+9.130000114440918,12,14,male,white,married
+4.5,11,37,male,white,married
+3.0,11,1,female,white,no married
+8.75,12,4,male,white,married
+4.139999866485596,13,29,female,white,married
+2.869999885559082,12,45,female,white,married
+3.3499999046325684,13,22,female,white,no married
+6.079999923706055,16,42,male,white,no married
+3.0,15,9,male,nonwhite,no married
+4.199999809265137,16,8,female,white,married
+5.599999904632568,15,31,female,white,no married
+10.0,12,24,male,white,married
+12.5,18,16,male,white,married
+3.759999990463257,6,6,male,white,no married
+3.0999999046325684,6,14,female,nonwhite,no married
+4.289999961853027,12,47,female,white,married
+10.920000076293944,12,34,male,white,married
+7.5,16,6,female,white,married
+4.050000190734863,9,7,female,white,married
+4.650000095367432,12,27,male,white,married
+5.0,11,24,male,white,married
+2.900000095367432,10,18,female,white,married
+8.0,12,12,female,nonwhite,no married
+8.430000305175781,8,27,male,white,married
+2.9200000762939453,9,49,female,white,no married
+6.25,17,4,female,white,no married
+6.25,16,24,female,white,married
+5.110000133514404,11,3,male,white,no married
+4.0,10,2,female,white,no married
+4.440000057220459,8,29,male,white,married
+6.880000114440918,13,34,male,white,married
+5.429999828338623,14,10,male,nonwhite,married
+3.0,13,5,female,white,no married
+2.900000095367432,11,2,female,white,no married
+6.25,7,39,male,nonwhite,married
+4.340000152587891,16,5,female,nonwhite,no married
+3.25,12,14,female,white,married
+7.260000228881836,13,8,male,white,no married
+6.349999904632568,14,10,female,white,married
+5.630000114440918,16,2,male,white,married
+8.75,14,9,male,white,married
+3.200000047683716,11,1,male,white,no married
+3.0,8,45,female,white,married
+3.0,14,33,female,white,married
+12.5,17,21,male,white,married
+2.880000114440918,10,2,female,white,no married
+3.3499999046325684,12,9,male,white,married
+6.5,12,33,male,white,married
+10.380000114440918,18,16,male,nonwhite,married
+4.5,14,10,male,white,married
+10.0,18,9,male,white,no married
+3.809999942779541,12,8,female,white,married
+8.800000190734863,16,9,male,white,married
+9.420000076293944,14,23,female,white,married
+6.329999923706055,12,23,male,white,married
+4.0,9,22,male,nonwhite,no married
+2.900000095367432,12,37,female,white,married
+20.0,12,22,male,white,married
+11.25,17,28,male,white,married
+3.5,12,14,female,nonwhite,no married
+6.0,15,19,female,white,married
+14.380000114440918,17,10,male,nonwhite,married
+6.360000133514404,16,25,male,white,married
+3.549999952316284,12,21,female,white,married
+3.0,15,32,male,white,married
+4.5,16,21,male,white,married
+6.630000114440918,12,36,female,white,no married
+9.300000190734863,15,2,male,white,married
+3.0,12,11,female,white,married
+3.25,12,40,female,white,no married
+1.5,12,11,female,white,married
+5.900000095367432,12,9,female,white,married
+8.0,16,23,male,white,no married
+2.900000095367432,11,1,female,white,no married
+3.289999961853028,14,30,male,white,no married
+6.5,14,41,male,white,married
+4.0,13,6,female,white,no married
+6.0,14,11,male,white,married
+4.079999923706055,12,43,female,white,married
+3.75,12,39,female,white,married
+3.049999952316284,8,50,female,white,no married
+3.5,12,26,female,white,married
+2.9200000762939453,3,51,male,nonwhite,no married
+4.5,11,3,male,white,no married
+3.3499999046325684,15,3,female,white,married
+5.949999809265137,11,15,male,nonwhite,married
+8.0,12,17,male,white,married
+3.0,4,36,male,white,married
+5.0,9,31,male,nonwhite,married
+5.5,12,9,male,white,married
+2.650000095367432,12,42,female,white,married
+3.0,11,3,female,white,no married
+4.5,12,37,female,white,married
+17.5,16,23,male,white,married
+8.180000305175781,13,21,male,white,no married
+9.09000015258789,15,11,male,white,married
+11.81999969482422,16,35,male,white,married
+3.25,12,42,female,white,married
+4.5,12,3,male,white,no married
+4.5,12,13,male,white,married
+3.7100000381469727,9,14,male,white,married
+6.5,10,14,male,white,married
+2.900000095367432,12,39,female,white,married
+5.599999904632568,11,11,male,white,married
+2.2300000190734863,8,28,male,white,married
+5.0,6,18,female,white,married
+8.329999923706055,16,6,male,white,married
+2.900000095367432,12,26,female,white,no married
+6.25,12,21,male,white,married
+4.550000190734863,16,34,male,white,married
+3.2799999713897705,12,17,female,white,no married
+2.299999952316284,10,2,female,white,no married
+3.299999952316284,13,5,female,white,no married
+3.150000095367432,13,1,female,white,no married
+12.5,14,40,male,white,married
+5.150000095367432,16,39,female,white,no married
+3.130000114440918,10,1,male,white,no married
+7.25,12,14,male,white,married
+2.900000095367432,12,2,female,white,no married
+1.75,11,2,male,white,no married
+2.890000104904175,0,42,female,white,married
+2.900000095367432,5,34,female,white,married
+17.709999084472656,16,10,male,white,married
+6.25,16,4,male,white,married
+2.5999999046325684,9,4,male,white,no married
+6.630000114440918,15,21,female,white,married
+3.5,12,31,female,nonwhite,no married
+6.5,12,20,male,white,married
+3.0,12,36,female,nonwhite,no married
+4.380000114440918,13,7,male,nonwhite,married
+10.0,12,15,male,white,no married
+4.949999809265137,7,25,male,white,married
+9.0,17,7,female,white,married
+1.4299999475479126,12,17,female,white,married
+3.0799999237060547,12,3,male,white,no married
+9.329999923706056,14,12,male,white,married
+7.5,12,18,male,white,married
+4.75,13,47,male,white,married
+5.650000095367432,12,2,male,white,no married
+15.0,16,14,female,white,married
+2.2699999809265137,10,2,female,white,no married
+4.670000076293945,15,13,male,white,married
+11.5600004196167,16,5,male,white,married
+3.5,14,5,female,nonwhite,no married
